@@ -292,13 +292,15 @@ Generally, any Statement you make to the Police during investigations cannot be 
 ---
 
 ## Legal Aid Centres (LAC)
-- Kuala Lumpur : 03-2691 3005 / 03-2693 2072
-- Selangor : 03-5510 7007 / 03-3281 2428
-- Negeri Sembilan : 06-6013 844
-- Melaka : 06-2845 519 / 06-2864 514
-- Johor : 07-2235 698
-- Perak : 05-2550 523
-- Kedah & Perlis : 04-7333 467
-- Kelantan : 04-7448 660
-- Pahang : 09-5159 244 / 09-2969 410
-- Pulau Pinang : 04-2617 451/ 04-3108 451
+- Johor : [07-223 5698](tel:+607-223 5698) (JB) / [06-951 4700](tel:+606-951 4700) (Muar)
+- Kedah : [04-733 3467](tel:+604-733 3467)
+- Kelantan : [011-1197 6700](tel:+6011-1197 6700)
+- Kuala Lumpur : [03-2691 1121](tel:03-2691 1121) / [03-2692 1122](tel:+603-2692 1122)
+- Melaka : [06-230 9509](tel:+606-230 9509) / [06-230 9507](tel:+606-230 9507)
+- Negeri Sembilan : [06-601 3843](tel:+606-601 3843) / [06-601 7454](tel:+606-601 7454)
+- Pahang : [09-515 9244](tel:) (Kuantan) / [09-296 9410](tel:+609-296 9410) (Temerloh) 
+- Pulau Pinang : [04-261 7451](tel:+604-261 7451)
+- Perak : [05-255 0523](tel:+605-255 0523) 
+- Perlis: [04-977 0272](tel:+604-977 0272) 
+- Selangor : [03-5510 7007](tel:+603-5510 7007) (Shah Alam) / [03-3281 2428](tel:+603-3281 2428) (Kuala Selangor)
+- Terengganu : [09-622 0249](tel:+6096220249) 
