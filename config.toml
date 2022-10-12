@@ -3,6 +3,7 @@
 baseURL = '/'
 title = 'bukumerah.com'
 theme = 'hugo-book'
+enableRobotsTXT = true
 
 # Book configuration
 disablePathToLower = true
